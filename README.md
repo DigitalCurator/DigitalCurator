@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://bit.ly/mastercoder" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-%F0%9D%95%AF%F0%9D%96%8E%F0%9D%96%8C%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%86%F0%9D%96%91%20%F0%9D%95%AE%F0%9D%96%9A%F0%9D%96%97%F0%9D%96%86%F0%9D%96%99%F0%9D%96%94%F0%9D%96%97-blue?style=plastic&logo=github&logoColor=white&labelColor=gray"/></a>
+ <a href="#" target="" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-%F0%9D%95%AF%F0%9D%96%8E%F0%9D%96%8C%F0%9D%96%8E%F0%9D%96%99%F0%9D%96%86%F0%9D%96%91%20%F0%9D%95%AE%F0%9D%96%9A%F0%9D%96%97%F0%9D%96%86%F0%9D%96%99%F0%9D%96%94%F0%9D%96%97-blue?style=plastic&logo=github&logoColor=white&labelColor=gray"/></a>
 
 <br><br>
 
