@@ -5,7 +5,7 @@
 
 ###### _Deploy:_ 
 <p align="center">
-<a href="#" target="" rel="noopener noreferrer"><img height="42px" src="https://github.com/user-attachments/assets/afbdf8c8-b9fa-4d46-ae65-04e559d18b5c"/></a>
+<a href="#" target="" rel="noopener noreferrer"><img height="42px" src="https://gist.github.com/user-attachments/assets/22675d2f-5ea4-4304-a762-bf664c47f159"/></a>
 </p>
 <hr>
 
