@@ -9,5 +9,4 @@
 </p>
 <hr>
 
-###### For assistance in image or file download, message ‣ [<kbd><b>here</b></kbd>](https://gist.github.com/DigitalCurator/85318143a67582ff49f03a6f78865c46).
-<!-- ![374351379-22675d2f-5ea4-4304-a762-bf664c47f159](https://github.com/user-attachments/assets/8511bb17-289c-4133-8e87-889be57c89ce) -->
+###### For assistance, message me [<kbd><b>here</b></kbd>](https://gist.github.com/DigitalCurator/85318143a67582ff49f03a6f78865c46).
